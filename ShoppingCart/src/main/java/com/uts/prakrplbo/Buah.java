@@ -10,6 +10,10 @@ public class Buah {
         this.harga = 0;
     }
 
+    public String getNama(){
+        return nama;
+    }
+
     public Buah(String nama, int harga){
         this.nama = nama;
         this.harga = harga;

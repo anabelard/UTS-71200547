@@ -6,4 +6,9 @@ public class Apel extends Buah {
     public Apel(){
         super("Apel", harga);
     }
+
+    public static int getHarga(){
+        return harga;
+    }
+
 }
