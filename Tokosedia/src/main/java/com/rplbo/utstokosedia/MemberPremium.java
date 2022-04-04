@@ -8,7 +8,7 @@ public class MemberPremium extends Member{
 
     }
 
-    public void bayar(long harga, String kodeVoucher){
+    public void bayar(long tagihan, String kodeVoucher){
 
     }
 
